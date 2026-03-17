@@ -4,6 +4,7 @@ A curated collection of machine learning models developed by [Shah Fahad Hashmi]
 
 - 📰 Fake News Detection Model
 - 💉 Diabetes Prediction Model
+- comprehensive study of supervised machine learning 
 
 These models are built using structured datasets and implement key machine learning techniques including data preprocessing, feature engineering, model training, and evaluation using Scikit-learn.
 
@@ -18,6 +19,8 @@ This repository demonstrates how machine learning can be applied to two critical
 
 2. Diabetes Prediction  
    Predicts the likelihood of diabetes in patients based on health metrics using supervised classification algorithms such as Random Forest, KNN, and Logistic Regression.
+   3. comprehensive study of supervised machine learning
+      applied 7 different algorithms on different datasets to predict the accuracy of the data and behaviour of same algorithm on different Dataset
 
 Each model is self-contained and can be trained, evaluated, and tuned with minimal setup.
 
